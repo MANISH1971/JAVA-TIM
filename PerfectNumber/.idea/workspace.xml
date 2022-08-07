@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="acf3d9e0-f255-417f-804e-27ec5e11cfb7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../AreaCalculator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AreaCalculator/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AreaCalculator/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AreaCalculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AreaCalculator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AreaCalculator/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AreaCalculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AreaCalculator/AreaCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculateScore/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculateScore/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculateScore/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculateScore/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculateScore/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculateScore/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculateScore/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculateScore/CalculateScore.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DayOfTheWeekChallenge/DayOfTheWeekChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DecimalComparator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DigitSumChallenge/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DigitSumChallenge/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DigitSumChallenge/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DigitSumChallenge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DigitSumChallenge/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DigitSumChallenge/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DigitSumChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DigitSumChallenge/DigitSumChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeapYearCalculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoopStatement/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoopStatement/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoopStatement/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoopStatement/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoopStatement/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoopStatement/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoopStatement/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoopStatement/LoopStatement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Switch/Switch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TeenNumberChecker/TeenNumberChecker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TeenNumberChecker/src/TeenNumberChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiledoWhile/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiledoWhile/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiledoWhile/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiledoWhile/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiledoWhile/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiledoWhile/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiledoWhile/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiledoWhile/LECTURE-69.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhiledoWhile/WhiledoWhile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../getEvenDigitSum/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../getEvenDigitSum/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../getEvenDigitSum/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../getEvenDigitSum/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../getEvenDigitSum/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../getEvenDigitSum/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../getEvenDigitSum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../getEvenDigitSum/getEvenDigitSum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../getGreatestCommonDivisor/Euclidean algorithm.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../getGreatestCommonDivisor/getGreatestCommonDivisor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hasEqualSum/hasEqualSum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hasEqualSum/src/hasEqualSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hasSameLastDigit/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hasSameLastDigit/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hasSameLastDigit/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hasSameLastDigit/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hasSameLastDigit/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hasSameLastDigit/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hasSameLastDigit/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hasSameLastDigit/hasSameLastDigit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hasSharedDigit/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hasSharedDigit/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hasSharedDigit/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hasSharedDigit/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hasSharedDigit/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hasSharedDigit/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hasSharedDigit/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hasSharedDigit/hasSharedDigit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isCatPlaying/isCatPlaying.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isLeapYear/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isLeapYear/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isLeapYear/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isLeapYear/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isLeapYear/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isLeapYear/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isLeapYear/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isLeapYear/isLeapYear.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isOdd/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isOdd/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isOdd/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isOdd/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isOdd/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isOdd/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isOdd/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isOdd/isOdd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isPalindrome/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isPalindrome/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isPalindrome/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isPalindrome/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isPalindrome/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isPalindrome/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isPalindrome/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isPalindrome/isPalindrome.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../isPalindrome/out/production/isPalindrome/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../overloadings/overloadings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../printEqual/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../printEqual/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../printEqual/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../printEqual/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../printEqual/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../printEqual/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../printEqual/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../printEqual/printEqual.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../printFactors/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../printFactors/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../printFactors/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../printFactors/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../printFactors/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../printFactors/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../printFactors/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../printFactors/printFactors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../printNumberInWord/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../printNumberInWord/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../printNumberInWord/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../printNumberInWord/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../printNumberInWord/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../printNumberInWord/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../printNumberInWord/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../printNumberInWord/printNumberInWord.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../printYearsAndDays/printYearsAndDays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sumFirstAndLastDigit/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sumFirstAndLastDigit/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sumFirstAndLastDigit/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sumFirstAndLastDigit/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sumFirstAndLastDigit/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sumFirstAndLastDigit/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sumFirstAndLastDigit/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sumFirstAndLastDigit/sumFirstAndLastDigit.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecimalComparator/out/production/DecimalComparator/DecimalComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DecimalComparator/out/production/DecimalComparator/DecimalComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DecimalComparator/src/DecimalComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DecimalComparator/src/DecimalComparator.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1tJs2RI9SD8LBCysuxbY8LN8UMb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../isPerfectNumber" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.timbuchalka.Main" />
+      <module name="isPerfectNumber" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="isPerfectNumber" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="isPerfectNumber" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acf3d9e0-f255-417f-804e-27ec5e11cfb7" name="Default Changelist" comment="" />
+      <created>1622498319081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622498319081</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
