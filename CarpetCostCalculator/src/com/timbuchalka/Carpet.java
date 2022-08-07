@@ -7,6 +7,9 @@ public class Carpet {
         this.cost = cost;
     }
     public double getCost() {
+        if (cost < 0) {
+            this.cost = 0;
+        }
         return cost;
     }
 }

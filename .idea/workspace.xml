@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1072f6f-5c2a-47b2-9e4d-dfa7107567ff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ARRAYSOLVEMM/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ARRAYSOLVEMM/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ARRAYSOLVEMM/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ARRAYSOLVEMM/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ARRAYSOLVEMM/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ARRAYSOLVEMM/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ARRAYSOLVEMM/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ARRAYSOLVEMM/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ARRAYSOLVEMM/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AreaCalculator/out/production/AreaCalculator/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AreaCalculator/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array1/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array1/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array1/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculateScore/out/production/CalculateScore/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculateScore/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarpetCostCalculator/out/production/CarpetCostCalculator/com/timbuchalka/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarpetCostCalculator/out/production/CarpetCostCalculator/com/timbuchalka/Carpet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarpetCostCalculator/out/production/CarpetCostCalculator/com/timbuchalka/Floor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarpetCostCalculator/out/production/CarpetCostCalculator/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarpetCostCalculator/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassComposition/src/com/timbuchalka/Bed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassComposition/src/com/timbuchalka/Bedroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassComposition/src/com/timbuchalka/Ceiling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassComposition/src/com/timbuchalka/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/out/production/Classes/com/timbuchalka/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/out/production/Classes/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComplexNumber/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComplexNumber/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComplexNumber/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComplexNumber/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComplexNumber/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComplexNumber/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComplexNumber/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComplexNumber/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ComplexNumber/src/com/timbuchalka/ComplexNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composition/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composition/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composition/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composition/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composition/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composition/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composition/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composition/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composition/src/com/timbuchalka/Bed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composition/src/com/timbuchalka/Bedroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composition/src/com/timbuchalka/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composition/src/com/timbuchalka/Case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composition/src/com/timbuchalka/Celling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composition/src/com/timbuchalka/Dimensions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composition/src/com/timbuchalka/Lamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composition/src/com/timbuchalka/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composition/src/com/timbuchalka/Motherboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composition/src/com/timbuchalka/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composition/src/com/timbuchalka/Resolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composition/src/com/timbuchalka/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composition/src/com/timbuchalka/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Constructors/out/production/Constructors/com/timbuchalka/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Constructors/out/production/Constructors/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Constructors/out/production/Constructors/com/timbuchalka/VipPerson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Constructors/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DayOfTheWeekChallenge/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DayOfTheWeekChallenge/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DayOfTheWeekChallenge/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DayOfTheWeekChallenge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DayOfTheWeekChallenge/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DayOfTheWeekChallenge/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DayOfTheWeekChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DayOfTheWeekChallenge/out/production/DayOfTheWeekChallenge/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DayOfTheWeekChallenge/out/production/printDayOfTheWeek/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DayOfTheWeekChallenge/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DigitSumChallenge/out/production/DigitSumChallenge/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DigitSumChallenge/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation/src/com/timbuchalka/EnhancedPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation/src/com/timbuchalka/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EncapsulationPrinter/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EncapsulationPrinter/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EncapsulationPrinter/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EncapsulationPrinter/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EncapsulationPrinter/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EncapsulationPrinter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EncapsulationPrinter/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EncapsulationPrinter/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EncapsulationPrinter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EncapsulationPrinter/src/com/timbuchalka/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlourPacker/out/production/FlourPacker/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlourPacker/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/src/com/timbuchalka/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/src/com/timbuchalka/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/src/com/timbuchalka/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InheritanceExample/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InheritanceExample/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InheritanceExample/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InheritanceExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InheritanceExample/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InheritanceExample/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InheritanceExample/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InheritanceExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InheritanceExample/src/com/timbuchalka/Outlander.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InheritanceExample/src/com/timbuchalka/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InheritanceExample/src/com/timbuchalka/car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LoopStatement/out/production/LoopStatement/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LoopStatement/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MinAndMaxInputChallenge/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPTest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPTest/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPTest/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPTest/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPTest/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPTest/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPTest/src/com/timbuchalka/DeluxBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPTest/src/com/timbuchalka/Hamburger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPTest/src/com/timbuchalka/HealtyBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OPPSBILLBURGER/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OPPSBILLBURGER/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OPPSBILLBURGER/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OPPSBILLBURGER/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OPPSBILLBURGER/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OPPSBILLBURGER/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OPPSBILLBURGER/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OPPSBILLBURGER/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OPPSBILLBURGER/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OPPSBILLBURGER/src/com/timbuchalka/DeluxeBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OPPSBILLBURGER/src/com/timbuchalka/Hamburger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OPPSBILLBURGER/src/com/timbuchalka/HealthyBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PaintJob/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PaintJob/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PaintJob/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PaintJob/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PaintJob/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PaintJob/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PaintJob/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PaintJob/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PaintJob/PaintJob.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PaintJob/out/production/PaintJob/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PaintJob/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ParsingValueFromString/out/production/ParsingValueFromString/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ParsingValueFromString/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PerfectNumber/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Person/Write a class with the name Person.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Person/out/production/Person/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Person/out/production/Person/com/timbuchalka/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Person/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Point/out/production/Point/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Point/out/production/Point/com/timbuchalka/Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Point/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolymorphismCar/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolymorphismCar/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolymorphismCar/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolymorphismCar/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolymorphismCar/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolymorphismCar/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolymorphismCar/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolymorphismCar/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolymorphismCar/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolymorphismExample/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolymorphismExample/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolymorphismExample/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolymorphismExample/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolymorphismExample/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolymorphismExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolymorphismExample/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolymorphismExample/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolymorphismExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PoolArea/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PoolArea/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PoolArea/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PoolArea/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PoolArea/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PoolArea/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PoolArea/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PoolArea/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PoolArea/src/com/timbuchalka/Cuboid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PoolArea/src/com/timbuchalka/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadingUserInput/out/production/ReadingUserInput/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadingUserInput/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadingUserInputChallenge/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadingUserInputChallenge/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadingUserInputChallenge/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadingUserInputChallenge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadingUserInputChallenge/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadingUserInputChallenge/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadingUserInputChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadingUserInputChallenge/out/production/ReadingUserInputScanner/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadingUserInputChallenge/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleCalculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleCalculator/SimpleCalculator.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleCalculator/out/production/SimpleCalculator/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleCalculator/out/production/SimpleCalculator/com/timbuchalka/SimpleCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleCalculator/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleCalculators/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleCalculators/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleCalculators/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleCalculators/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleCalculators/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleCalculators/SimpleCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleCalculators/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch/out/production/Switch/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Switch/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TeenNumberChecker/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TeenNumberChecker/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TeenNumberChecker/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TeenNumberChecker/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TeenNumberChecker/out/production/TeenNumberChecker/TeenNumberChecker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wall/class name Wall.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wall/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhiledoWhile/out/production/WhiledoWhile/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhiledoWhile/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cylinder/src/com/timbuchalka/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cylinder/src/com/timbuchalka/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getEvenDigitSum/out/production/getEvenDigitSum/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getEvenDigitSum/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getGreatestCommonDivisor/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getGreatestCommonDivisor/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getGreatestCommonDivisor/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getGreatestCommonDivisor/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getGreatestCommonDivisor/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getGreatestCommonDivisor/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getGreatestCommonDivisor/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getGreatestCommonDivisor/out/production/getGreatestCommonDivisor/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getGreatestCommonDivisor/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getLargestPrime/out/production/getLargestPrime/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getLargestPrime/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hasEqualSum/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hasEqualSum/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hasEqualSum/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hasEqualSum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hasEqualSum/out/production/hasEqualSum/hasEqualSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hasSameLastDigit/out/production/hasSameLastDigit/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hasSameLastDigit/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hasSharedDigit/out/production/hasSharedDigit/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hasSharedDigit/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ifKeywordAndCodeBlocks/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ifKeywordAndCodeBlocks/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ifKeywordAndCodeBlocks/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ifKeywordAndCodeBlocks/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ifKeywordAndCodeBlocks/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ifKeywordAndCodeBlocks/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ifKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ifKeywordAndCodeBlocks/out/production/untitled104/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ifKeywordAndCodeBlocks/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inputThenPrintSumAndAverage/out/production/inputThenPrintSumAndAverage/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inputThenPrintSumAndAverage/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isCatPlaying/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isCatPlaying/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isCatPlaying/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isCatPlaying/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isCatPlaying/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isCatPlaying/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isCatPlaying/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isCatPlaying/out/production/isCatPlaying/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isCatPlaying/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isLeapYear/out/production/isLeapYear/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isLeapYear/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isOdd/out/production/isOdd/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isOdd/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isPalindrome/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isPerfectNumber/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isPerfectNumber/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isPerfectNumber/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isPerfectNumber/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isPerfectNumber/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isPerfectNumber/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isPerfectNumber/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isPerfectNumber/out/production/PerfectNumber/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isPerfectNumber/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numberToWords/out/production/numberToWords/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numberToWords/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/overloadings/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/overloadings/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/overloadings/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/overloadings/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/overloadings/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/overloadings/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/overloadings/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/overloadings/out/production/overloadings/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/overloadings/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printEqual/out/production/printEqual/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printEqual/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printFactors/out/production/printFactors/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printFactors/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printNumberInWord/out/production/printNumberInWord/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printNumberInWord/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printSquareStar/out/production/printSquareStar/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printSquareStar/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printYearsAndDays/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printYearsAndDays/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printYearsAndDays/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printYearsAndDays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printYearsAndDays/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printYearsAndDays/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printYearsAndDays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printYearsAndDays/out/production/printYearsAndDays/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printYearsAndDays/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printerEncapsulation/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printerEncapsulation/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printerEncapsulation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printerEncapsulation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printerEncapsulation/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printerEncapsulation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/printerEncapsulation/src/com/timbuchalka/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sumFirstAndLastDigit/out/production/sumFirstAndLastDigit/com/timbuchalka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sumFirstAndLastDigit/src/com/timbuchalka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AreaCalculator/AreaCalculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ByteShortintLong/ByteShortintLong.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculateScore/CalculateScore.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarpetCostCalculator/CarpetCostCalculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarpetCostCalculator/src/com/timbuchalka/Carpet.java" beforeDir="false" afterPath="$PROJECT_DIR$/CarpetCostCalculator/src/com/timbuchalka/Carpet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CharAndBoolean/CharAndBoolean.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/Classes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Constructors/Constructors.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DayOfTheWeekChallenge/DayOfTheWeekChallenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DecimalComparator/DecimalComparator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DigitSumChallenge/DigitSumChallenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FloatAndDouble/FloatAndDouble.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlourPacker/FlourPacker.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeapYearCalculator/LeapYearCalculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoopStatement/LoopStatement.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MegaBytesConverter/MegaBytesConverter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinAndMaxInputChallenge/MinAndMaxInputChallenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PaintJob/PaintJob.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParsingValueFromString/ParsingValueFromString.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Person/Person.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Point/Point.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimitiveTypeChallange/PrimitiveTypeChallange.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadingUserInput/ReadingUserInput.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SampleCodingExercise/SampleCodingExercise.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleCalculator/SimpleCalculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpeedConverter/SpeedConverter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StatementsWhiteSpaceAndIndenting/StatementsWhiteSpaceAndIndenting.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch/Switch.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeenNumberChecker/TeenNumberChecker.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wall/Wall.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhiledoWhile/WhiledoWhile.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise1/exercise1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/getEvenDigitSum/getEvenDigitSum.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/getGreatestCommonDivisor/getGreatestCommonDivisor.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/getLargestPrime/getLargestPrime.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hasEqualSum/hasEqualSum.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hasSameLastDigit/hasSameLastDigit.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hasSharedDigit/hasSharedDigit.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputThenPrintSumAndAverage/inputThenPrintSumAndAverage.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/isCatPlaying/isCatPlaying.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/isLeapYear/isLeapYear.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/isOdd/isOdd.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/isPalindrome/isPalindrome.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/isPerfectNumber/isPerfectNumber.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/numberToWords/numberToWords.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/operators/operators.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/overloadings/overloadings.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printEqual/printEqual.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printFactors/printFactors.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printNumberInWord/printNumberInWord.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printSquareStar/printSquareStar.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printYearsAndDays/printYearsAndDays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shouldWakeUp/shouldWakeUp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/string.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sumFirstAndLastDigit/sumFirstAndLastDigit.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/IfKeywordAndCodeBlocks.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/ifKeywordAndCodeBlocks.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/out/production/untitled104/com/timbuchalka/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1/src/com/timbuchalka/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled5/SimpleCalculator.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CkS7kXOSaSAkXPJ5CRwZ113rpP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/JAVA-TIM"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="JAVA-TIM" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="JAVA-TIM" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1072f6f-5c2a-47b2-9e4d-dfa7107567ff" name="Changes" comment="" />
+      <created>1659344924150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659344924150</updated>
+    </task>
+    <servers />
+  </component>
+</project>
